@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keith!</h1>
-<h3 align="center">I'm a passionate Computer Science student from the Philippines with interests in data structures, web development, and game development. When I'm not coding, I enjoy reading manga, manhwa, or manhua. I also love watching random YouTube videos and getting a good laugh from memes.</h3>
+<h3 align="center">I'm a passionate Computer Science student with interests in data structures, web development, and game development. When I'm not coding, I enjoy reading manga, manhwa, or manhua. I also love watching random YouTube videos and having a good laugh at trending memes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krispypatata&label=Profile%20views&color=0e75b6&style=flat" alt="krispypatata" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krispypatata" alt="krispypatata" /></a> </p>
+- 👨‍💻 All of my projects are available here in my github profile. [https://github.com/krispypatata/](https://github.com/krispypatata/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,6 +16,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krispypatata&show_icons=true&locale=en&layout=compact" alt="krispypatata" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krispypatata&show_icons=true&locale=en" alt="krispypatata" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krispypatata&" alt="krispypatata" /></p>
 
