@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Keith!</h1>
-<h3 align="center">I'm a passionate Computer Science student with interests in data structures, web development, and game development. When I'm not coding, I enjoy reading manga, manhwa, or manhua. I also love watching random YouTube videos and having a good laugh at trending memes.</h3>
 
-- 👨‍💻 All of my projects are available here in my github profile. [https://github.com/krispypatata/](https://github.com/krispypatata/)
+<h3 align="center">
+I'm a passionate BS Computer Science student with interests in data structures and algorithms, web programming, and game development. When I'm not coding, I enjoy reading manga, manhwa, or manhua.<br>
+I also love watching random YouTube videos and getting a good laugh from popular memes.
+</h3>
+
+<h3 align="left">Projects:</h3>
+<p>🚀 All of my projects are available here on my GitHub profile. Here are some examples:</p>
+<ul>
+  <li>🚀 <a href="https://github.com/krispypatata/spacewars-java">Spacewars</a>: A space shooter game developed with key object-oriented programming principles using Java and JavaFX.</li>
+  <li>🔵🔴 <a href="https://github.com/krispypatata/connect-x">Connect X</a>: A slightly improved version of a classic strategy game, Connect 4, using Python and Pygame.</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
