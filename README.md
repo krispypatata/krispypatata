@@ -17,6 +17,9 @@ I also love watching random YouTube videos and getting a good laugh from popular
 <a href="https://linkedin.com/in/keithginoelgabinete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keithginoelgabinete" height="30" width="40" /></a>
 <a href="https://fb.com/kgsgabinete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kgsgabinete" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@teioh." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teioh." height="30" width="40" /></a>
+<a href="mailto:ksgabinete@up.edu.ph" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
