@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keith!</h1>
 
 <h3 align="center">
-I'm a passionate BS Computer Science student with interests in data structures and algorithms, web programming, and game development. When I'm not coding, I enjoy reading manga, manhwa, or manhua.<br>
+I'm a passionate BS Computer Science student with interests in data structures and algorithms, web programming, and game development.
+When I'm not coding, I enjoy reading manga, manhwa, or manhua.
 I also love watching random YouTube videos and getting a good laugh from popular memes.
 </h3>
 
-<h3 align="left">Projects:</h3>
 <p>🚀 All of my projects are available here on my GitHub profile. Here are some examples:</p>
 <ul>
   <li>🚀 <a href="https://github.com/krispypatata/spacewars-java">Spacewars</a>: A space shooter game developed with key object-oriented programming principles using Java and JavaFX.</li>
