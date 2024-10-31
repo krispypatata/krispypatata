@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keith!</h1>
 
 <h3 align="center">
-I'm a passionate BS Computer Science student with interests in data structures and algorithms, web programming, and game development.
+I'm a BS Computer Science student with interests in data structures and algorithms, web programming, and game development.
 When I'm not coding, I enjoy reading manga, manhwa, or manhua.
 I also love watching random YouTube videos and getting a good laugh from popular memes.
 </h3>
