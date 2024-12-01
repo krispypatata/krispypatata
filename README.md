@@ -3,7 +3,7 @@
 <h3 align="center">
 I'm a BS Computer Science student with interests in data structures and algorithms, web programming, and game development.
 When I'm not coding, I enjoy reading manga, manhwa, or manhua.
-I also love watching random YouTube videos and getting a good laugh from popular memes.
+I also like watching YouTube shorts and getting a good laugh from random memes.
 </h3>
 
 <p>🚀 All of my projects are available here on my GitHub profile. Here are some examples:</p>
