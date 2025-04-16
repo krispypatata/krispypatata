@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Keith!</h1>
 
-<h3 align="center">
-I'm a BS Computer Science student with interests in data structures and algorithms, web programming, and game development.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;I'm a BS Computer Science student with interests in data structures and algorithms, web programming, and game development.
 When I'm not coding, I enjoy reading manga, manhwa, or manhua.
 I also like watching YouTube shorts and getting a good laugh from random memes.
-</h3>
+</p>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
