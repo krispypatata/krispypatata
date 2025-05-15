@@ -9,8 +9,11 @@ I also like watching YouTube shorts and getting a good laugh from random memes.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" height="30" width="40" />
+<a href="mailto:ksgabinete@up.edu.ph">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Gmail" height="30" width="40" />
 </a>
-<a href="https://fb.com/kgsgabinete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kgsgabinete" height="30" width="40" /></a>
+<a href="https://fb.com/kgsgabinete" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kgsgabinete" height="30" width="40" />
+</a>
 
 
